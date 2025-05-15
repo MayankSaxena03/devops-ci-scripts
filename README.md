@@ -58,13 +58,6 @@ Notifications are sent via Discord webhook:
 4. Configure GitHub webhook or polling to trigger builds.
 5. Push code changes to your C++ repo to trigger builds.
 
-## Future Improvements
-
-- Archive logs as Jenkins artifacts for easier access.
-- Add timeout and retry mechanisms.
-- Integrate automated testing.
-- Extend to multi-platform builds.
-
 ---
 
 ## Author
