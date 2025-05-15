@@ -17,7 +17,6 @@ The Jenkins pipeline performs the following steps:
 
 - This repo (`devops-ci-scripts`) contains:
   - `Jenkinsfile` – The pipeline definition.
-  - Other scripts or CI-related files (optional).
 
 - The C++ source code is maintained in a separate repository:
   - [https://github.com/MayankSaxena03/jenkins-test.git](https://github.com/MayankSaxena03/jenkins-test.git)
